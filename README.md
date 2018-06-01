@@ -1,2 +1,2 @@
-# Deep Learning in Computer Vision, Higher School of Economics, 2017, Nizhny Novgorod
-Лекции по глубокому обучению в компьютерном зрении
+# Deep Learning in Computer Vision, Lobachevsky State University of Nizhny Novgorod, 2018
+Факультатив по глубокому обучению в компьютерном зрении
